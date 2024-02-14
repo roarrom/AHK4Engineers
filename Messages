@@ -1,0 +1,51 @@
+#Requires AutoHotkey v2.0
+
+; Attachments and Information
+::att::I’ve attached…  ; Use when you've attached a file
+::pfa::Please find [file] attached.  ; Use when directing attention to an attached file
+::doc::Here’s the document you asked for.  ; Use when providing a requested document
+::min::More information is available at [website].  ; Use when referring to additional info online
+
+; Requests and Inquiries
+::cpl::Could you please...?  ; General polite request
+::fom::Can you please fill out this form?  ; Requesting form completion
+::ihp::It would be very helpful if you could send us/me...  ; Expressing need for assistance
+
+; Asking for Clarifications
+::idu::I didn't/don't fully understand [something]. Could you please explain that again?  ; Requesting clarification
+::cla::Could you please clarify [something]?  ; Asking for specific clarifications
+
+; Sharing Information
+::tfl::Thank you for letting me know.  ; Acknowledging received information
+::rem::Just a quick/friendly reminder that...  ; Providing a reminder
+::kmi::Please keep me informed/posted/updated.  ; Request to stay informed
+
+; Getting and Giving Approval
+::lmo::Please let me know if this is OK with you.  ; Seeking confirmation or approval
+::tht::What are your thoughts (on this)?  ; Asking for opinion
+::wnt::We just need the thumbs up/the green light.  ; Waiting for approval
+
+; Scheduling
+::shc::I'd like to schedule a meeting on [day] if you are available/free then.  ; Proposing a meeting time
+::avb::Would you be available on [day]?  ; Checking availability
+
+; Giving Bad News
+::ufn::Unfortunately, ...  ; Beginning a sentence with bad news
+::iaf::I'm afraid it will not be possible to...  ; Expressing inability to comply
+::reg::We regret to inform you that...  ; Formally giving bad news
+
+; Closing Lines When a Response is Expected
+::ilf::I look forward to hearing from you (soon).  ; Anticipating a reply
+::plk::Please let me know if that’s okay.  ; Requesting confirmation on a matter
+
+; Offering Help or Information
+::ifn::If you need any more information, please don’t hesitate to contact us.  ; Offering further assistance
+::hlp::I hope this is of your help.  ; Hoping the information provided is helpful
+
+; Apologies
+::tfa::Thank you for your understanding/for your patience.  ; Expressing gratitude for patience or understanding
+::aop::We apologize for any inconvenience caused.  ; Apologizing for inconvenience
+
+; Friendly Ways to Say ‘Bye’
+::brg::Best regards.  ; Professional sign-off
+::atb::All the best.  ; Wishing well in a friendly manner
