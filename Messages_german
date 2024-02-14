@@ -1,0 +1,71 @@
+#Requires AutoHotkey v2.0
+
+; Anhänge und Informationen
+::att::Anbei sende ich Ihnen ; Wird verwendet, wenn Sie eine Datei angehängt haben
+::pfa::Bitte beachten Sie das angehängte Dokument ; Verwendet, wenn die Aufmerksamkeit auf eine angehängte Datei gelenkt werden soll
+::doc::Hiermit schicke Ich Ihnen die gewünschte Datei ; Verwendet man, wenn man ein angefordertes Dokument zur Verfügung stellt
+::htp::Weitere Informationen finden Sie auf [Website] ; Verwendet, um auf zusätzliche Informationen im Internet zu verweisen
+
+; Bitten und Anfragen
+::cpl::Könnten Sie bitte ; Allgemeine höfliche Anfrage
+::fom::Können Sie bitte dieses Formular ausfüllen? ; Aufforderung zum Ausfüllen eines Formulars
+::ihp::Es wäre sehr hilfreich, wenn Sie uns/mir ; Bedarf an Unterstützung ausdrücken
+
+; Bitte um Klarstellung
+::idu::Ich habe [etwas] nicht ganz verstanden. Könnten Sie das bitte noch einmal erklären? ; Bitte um Klärung
+::cla::Könnten Sie bitte [etwas] klären? ; Bitte um spezifische Klarstellungen
+
+; Informationen weitergeben
+::tfl::Danke, dass Sie mir Bescheid gesagt haben ; Bestätigung der erhaltenen Information
+::rem::Nur eine kurze, sowie freundliche, Erinnerung, dass ; Eine Erinnerung geben
+::kmi::Bitte halten Sie mich auf dem Laufenden ; Bitte, auf dem Laufenden zu bleiben
+
+; Genehmigung einholen und erteilen
+::lmo::Bitte lassen Sie mich wissen, ob dies für Sie in Ordnung ist ; Bitte um Bestätigung oder Genehmigung
+::tht::Was denken Sie über ; Erkundigung nach der Meinung
+::wnt::Wir brauchen nur noch grünes Licht, dann ; Warten auf die Genehmigung
+
+; Terminplanung
+::shc::Ich würde gerne ein Treffen am [Tag] vereinbaren, wenn Sie dann verfügbar sind. ; Vorschlag für einen Termin
+::avb::Wären Sie am [Tag] verfügbar? ; Überprüfung der Verfügbarkeit
+
+; Schlechte Nachrichten überbringen
+::ufn::Leider ; Einen Satz mit einer schlechten Nachricht beginnen
+::iaf::Ich fürchte, es wird nicht möglich sein, dass ; Ausdruck der Unfähigkeit, einen Termin einzuhalten
+::reg::Wir bedauern, Ihnen mitteilen zu müssen, dass ; Förmliche Übermittlung einer schlechten Nachricht
+
+; Schlusszeilen, wenn eine Antwort erwartet wird
+::ilf::Ich freue mich darauf, (bald) von Ihnen zu hören. ; Erwartung einer Antwort
+::plk::Bitte lassen Sie mich wissen, ob das in Ordnung ist. ; Bitte um Bestätigung in einer Angelegenheit
+
+; Angebot von Hilfe oder Informationen
+::ifn::Wenn Sie weitere Informationen benötigen, zögern Sie bitte nicht, uns zu kontaktieren. ; Anbieten weiterer Hilfe
+::hlp::Ich hoffe, dass Ihnen diese Informationen weiterhelfen ; Ich hoffe, dass die Informationen hilfreich sind
+
+; Entschuldigung
+::tfa::Vielen Dank für Ihr Verständnis! ; Dank für Geduld oder Verständnis
+::aop::Wir entschuldigen uns für etwaige Unannehmlichkeiten. ; Entschuldigung für Unannehmlichkeiten
+
+; Freundliche Verabschiedungsformeln
+::brg::Mit freundlichen Grüßen, `n[Ihr Name] ; Professionelle Verabschiedung
+::atb::Alles Gute ; Auf freundliche Art und Weise alles Gute wünschen
+
+; Sonstiges
+
+::sgdf::Sehr geehrte Frau Dr. 
+::sgdh::Sehr geehrter Herr Dr. 
+::sgf::Sehr geehrte Frau 
+::sgh::Sehr geehrter Herr 
+
+::dia::Danke im Voraus!
+::zb::zum Beispiel
+::dh::Das heißt
+::ifia::Ich freue mich auf Ihre Antwort
+::blsmw::Bitte lassen Sie mich wissen
+::fwi::Für weitere Informationen
+::ihdh::Ich hoffe, das hilft
+::bzs::Bitte zögern Sie nicht, mich zu kontaktieren
+::hd::Herzlichen Dank
+
+::mfg::Mit freundlichen Grüßen
+::mbg::Mit besten Grüßen
